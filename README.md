@@ -3,4 +3,4 @@ Graphic validation with VPython of my inverse kinematics solution for a 3 DOF qu
 
 Thanks to the GlowScript team for the VPython solution, https://www.glowscript.org/  .
 
-Youtube video : 
+Youtube video : https://youtu.be/kfc0hBcVoW8
